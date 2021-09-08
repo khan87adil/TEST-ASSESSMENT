@@ -1,0 +1,17 @@
+A Decision Tree is a simple representation for classifying examples. 
+It is a Supervised Machine Learning where 
+the data is continuously split according to a certain parameter.
+There are two main types of Decision Trees:
+Classification Trees and Regression Trees.
+Decision trees are built using a heuristic called recursive partitioning. 
+The key idea is to use a decision tree to partition
+the data space into cluster (or dense) regions and empty (or sparse) regions. 
+This approach is also commonly known as divide and conquer because it splits the data into subsets, 
+which are then split repeatedly into even smaller subsets. 
+Decision Trees follow Divide-and-Conquer Algorithm. 
+Extremely fast at classifying unknown records. 
+Easy to interpret for small-sized trees. 
+Accuracy comparable to other classification techniques for simple data sets. 
+Disadvantages: Easy to overfit and difficult to interpret.
+Biomedical Engineering (decision trees for identifying features to be used in implantable devices). 
+Astronomy (classify galaxies).

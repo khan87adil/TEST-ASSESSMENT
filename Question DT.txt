@@ -1,0 +1,105 @@
+ 'Quillionz | Questions and Notes in seconds' 
+
+Table of Contents
+Factual Questions...............................................
+Premium Questions...............................................
+Interpretive Questions..........................................
+Notes.........................................................
+
+
+----Factual Questions----
+
+1) What we’ve seen above is an example of _______ _______, where the outcome was a variable like ‘fit’ or ‘unfit’.   
+Answer: classification tree 
+
+2) The key idea is to use a decision tree to partition the data space into cluster regions and full regions.   
+Answer: False 
+Correct Sentence: The key idea is to use a decision tree to partition the data space into cluster regions and empty regions. 
+
+3) Small changes in the training data can result in large changes to decision logic.   
+Answer: True 
+
+4) Accuracy comparable to other _______ _______ for many simple data sets.   
+Answer: classification techniques 
+
+5) These tests are organized in a hierarchical structure called a _______ _______.   
+Answer: decision tree 
+
+6) _______ _______ where the target variable can take continuous values are called regression trees.   
+Answer: Decision trees 
+
+7) _______ _______ can be difficult to interpret and the decisions they make may seem counter intuitive.   
+Answer: Large trees 
+
+8) Decision Boundary restricted to being parallel to _______ _______.   
+Answer: attribute axes 
+
+9) _______ _______ are built using a heuristic called recursive partitioning.   
+Answer: Decision trees 
+
+10) Decision tree models are often biased toward splits on features having a large number of levels.   
+Answer: True 
+
+11) Describe 'Decision tree'.    
+Answer source: A Decision Tree is a simple representation for classifying examples. 
+
+12) Explain the following with an example: 'Classification tree'    
+Answer source: Regression Trees. What we’ve seen above is an example of classification tree, where the outcome was a variable like ‘fit’ or ‘unfit’. 
+
+13) _______ _______ models are often biased toward splits on features having a large number of levels.   
+Answer: Decision tree 
+
+14) At the end of the learning process, a _______ _______ covering the training set is returned.   
+Answer: decision tree 
+
+15) Describe 'Regression Trees'.    
+Answer source: Decision trees where the target variable can take continuous values are called regression trees. 
+
+16) Small changes in the training data can result in large changes to _______ _______.   
+Answer: decision logic 
+
+17) Easy to interpret for large-sized trees.   
+Answer: False 
+Correct Sentence: Easy to interpret for small-sized trees. 
+
+18) A _______ _______ is a simple representation for classifying examples.   
+Answer: Decision Tree 
+
+19) The key idea is to use a decision tree to partition the _______ _______ into cluster regions and empty regions.   
+Answer: data space 
+
+
+----Premium Questions----
+
+20) What is the key idea to partition the data space into cluster regions and empty regions?     
+Answer: Decision tree. 
+
+21) Who is a simple representation for classifying examples?     
+Answer: A Decision Tree. 
+
+22) What is a process built through a tree?     
+Answer: Binary recursive partitioning. 
+
+
+----Interpretive Questions----
+
+23) What is a Decision Tree?   
+Answer: a simple representation for classifying examples. It is a Supervised Machine Learning 
+
+24) What is the name of the simple representation for classifying examples?    
+Answer: Decision Tree 
+
+25) What is a Supervised Machine Learning?   
+Answer: A Decision Tree 
+
+26) What is the name of the branch that corresponds to the outcome of a test?    
+Answer: Edges/ Branch 
+
+
+---------Notes----------
+
+     A Decision Tree is a simple representation for classifying examples. It is a Supervised Machine Learning where the data is continuously split according to a certain parameter. There are two main types of Decision Trees: Classification Trees and Regression Trees. Decision trees are built using a heuristic called recursive partitioning. The key idea is to use a decision tree to partition the data space into cluster (or dense) regions and empty (or sparse) regions. This approach is also commonly known as divide and conquer because it splits the data into subsets, which are then split repeatedly into even smaller subsets. Decision Trees follow Divide-and-Conquer Algorithm. Extremely fast at classifying unknown records. Easy to interpret for small-sized trees. Accuracy comparable to other classification techniques for simple data sets. Disadvantages: Easy to overfit and difficult to interpret. Biomedical Engineering (decision trees for identifying features to be used in implantable devices). Astronomy (classify galaxies).
+
+
+
+'Created by Quillionz | World's first AI-powered platform for building quizzes and notes'
